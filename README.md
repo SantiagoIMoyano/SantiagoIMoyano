@@ -80,11 +80,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=SantiagoIMoyano&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoIMoyano&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true"
     alt="Top Languages"
   />
 </p>
